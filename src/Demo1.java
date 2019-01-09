@@ -6,6 +6,7 @@ public class Demo1 {
   @Test
   public void f() {
 	  System.out.println("This is simple test");
+	  System.out.println("This is simple test1");
   }
   @BeforeTest
   public void beforeTest() {
